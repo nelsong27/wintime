@@ -1,6 +1,6 @@
 # Puppet Task Name: timesync
 #
-# This is where you put the shell code for your task.
+#
 #
 # You can write Puppet tasks in any language you want and it's easy to
 # adapt an existing Python, PowerShell, Ruby, etc. script. Learn more at:
