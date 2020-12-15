@@ -1,7 +1,7 @@
 {
   "puppet_task_version": 1,
   "supports_noop": false,
-  "description": "This script sets the ntp servers and syncs the clock",
+  "description": "This script remediates Windows time vulnerability",
   "parameters": {
   }
 }
