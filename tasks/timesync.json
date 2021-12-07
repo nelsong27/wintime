@@ -1,7 +1,0 @@
-{
-  "puppet_task_version": 1,
-  "supports_noop": false,
-  "description": "This script remediates Windows time vulnerability",
-  "parameters": {
-  }
-}
