@@ -1,4 +1,4 @@
-# Puppet Task Name: fix_cve_2015-024
+# Puppet Task Name: fixcve2015024
 #
 #
 #
