@@ -1,4 +1,4 @@
-# Puppet Task Name: timesync
+# Puppet Task Name: fix_cve_2015-024
 #
 #
 #
